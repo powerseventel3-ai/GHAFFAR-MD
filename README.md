@@ -78,14 +78,13 @@
 
 <p align="center">Deploy your <strong>GHAFFAR-MD Bot</strong> with one click on your favorite hosting platforms.</p>
 
-
 <div align="center">
   <table>
     <tr>
       <td><a href="https://dashboard.heroku.com/new?template=https://github.com/powerseventel3-ai/GHAFFAR-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColory=white&labelColor=000000&color=00ffff"/></a></td>
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
-   
+ >  
 <hr>
 <p align="center"><i>❤️‍🩹 Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
 
