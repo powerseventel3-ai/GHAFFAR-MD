@@ -86,49 +86,20 @@
       <td><a href="https://talkdrove.com" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
    
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/powerseventel3-ai/GHAFFAR-MD" target="_blank">
-        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=gitlab&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>  
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/powerseventel3-ai/GHAFFAR-MD" target="_blank">
-        <img alt="Deploy From New Repo" src="https://img.shields.io/badge/Deploy-New%20Version-4CAF50?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>  
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/powerseventel3-ai/GHAFFAR-MD/archive/refs/heads/main.zip" target="_blank">
-        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-Panel%20Codes-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <hr>
 <p align="center"><i>❤️‍🩹 Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
 
 -
----
-
-<h2 align="center" style="color:#25D366; font-family:monospace; font-size:26px;"> 
-  SUPPORT CHANNEL
+<h2 align="center" style="color:#25D366; font-family:monospace; font-size:26px;"> SUPPORT CHANNEL
 </h2>
 
 <div align="center" style="margin-top: 15px; margin-bottom: 15px; background:#0e0e0e; padding: 20px; border-radius: 12px; border: 2px solid #25D366; box-shadow: 0 0 15px #25D366; width: 95%;">
 
 <p style="color:#e0e0e0; font-size:14px; font-family:sans-serif;">
-📢 Get updates, fixes, and sneak peeks directly from the official channel.
+👀 Get updates, fixes, and sneak peeks directly from the official channel.
 </p>
+
+<a href="https://whatsapp.com/channel/0029Vb7B2PMDZ4LUrhrNBa3A" target="_blank">
+  <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
+</a>
+
